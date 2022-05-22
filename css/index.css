@@ -431,6 +431,7 @@ li:not(:last-of-type) {
 
     gap: 10px;
     margin-bottom: 100px;
+    padding: 0 15px;
 }
 
 .gallery__content-wrapper {
