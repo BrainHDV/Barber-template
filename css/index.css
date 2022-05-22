@@ -437,8 +437,9 @@ li:not(:last-of-type) {
 .gallery__content-wrapper {
     width: 435px;
     height: 435px;
-    background: rgba(82, 150, 255, .9);
-
+    background: rgba(82, 150, 255, .9) cover;
+    
+    margin: 15px;
     transition: .4s ease;
 }
 
