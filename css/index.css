@@ -435,7 +435,7 @@ li:not(:last-of-type) {
 }
 
 .gallery__content-wrapper {
-    width: 435px;
+    max-width: 435px;
     background-color: rgba(82, 150, 255, .9);
     transition: .4s ease;
 }
